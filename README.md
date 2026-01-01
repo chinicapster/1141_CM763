@@ -325,7 +325,7 @@ This project builds upon the foundational implementation by Shimony Agrawal:
 If you use this upgraded implementation in your research, please cite:
 
 ```
-@mastersthesis{mai2025influence,
+@masterscourse{2025twitterinfluence,
   title={Predicting Social Media Influence: A Machine Learning Approach with Enhanced Algorithm Suite},
   author={Mai Le Quynh and Duong Kim Ngan},
   year={2025},
