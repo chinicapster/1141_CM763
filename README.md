@@ -209,8 +209,8 @@ The Jupyter notebook is organized into the following sections:
 
 | Algorithm | Training Accuracy | Validation Accuracy | Overfitting Ratio |
 |-----------|------------------|---------------------|-------------------|
-| **Gradient Boosting** | **77.40%** | **77.03%** | **-0.48%** |
-| XGBoost | 81.00% | 75.50% | 6.79% |
+| **Gradient Boosting** | **77.40%** | **77.03%** | **4.66%** |
+| XGBoost | 81.00% | 75.50% | 25.30% |
 | Random Forest | 78.20% | 74.80% | 4.35% |
 | AdaBoost | 73.50% | 73.20% | 0.41% |
 | Logistic Regression | 72.10% | 71.80% | 0.42% |
