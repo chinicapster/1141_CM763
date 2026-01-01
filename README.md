@@ -41,8 +41,8 @@ Our upgraded implementation extends the original 4-algorithm analysis with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/chinicapster/1141_CM763.git
-cd 1141_CM763
+git clone https://github.com/chinicapster/1141_CM763_Predicting-Social-Media-Influence.git
+cd 1141_CM763_Predicting-Social-Media-Influence
 ```
 
 2. Create a virtual environment (recommended):
@@ -188,7 +188,7 @@ The Jupyter notebook is organized into the following sections:
 ## Project Structure
 
 ```
-1141_CM763/
+1141_CM763_Predicting-Social-Media-Influence/
 │
 ├── [Group work] Upgraded code/
 │   ├── [Upgraded] Twitter_Analytics.ipynb    # Main analysis notebook (all-in-one)
@@ -349,8 +349,8 @@ This project follows the original MIT License from Shimony Agrawal's work. See t
 - Taoyuan, Taiwan
 
 **Repository:**
-- GitHub: [https://github.com/chinicapster/1141_CM763](https://github.com/chinicapster/1141_CM763)
-- Issues: [Create an issue](https://github.com/chinicapster/1141_CM763/issues)
+- GitHub: [https://github.com/chinicapster/1141_CM763](https://github.com/chinicapster/1141_CM763_Predicting-Social-Media-Influence)
+- Issues: [Create an issue](https://github.com/chinicapster/1141_CM763_Predicting-Social-Media-Influence/issues)
 
 ## Reproducibility Statement
 
