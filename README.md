@@ -8,7 +8,7 @@ This research project develops and evaluates machine learning algorithms to pred
 **Institution:** Department of Management, Yuan Ze University, Taoyuan, Taiwan  
 **Supervisor:** Professor Qazi Mazhar Ul Haq  
 **Students:** Mai Le Quynh (1133954), Duong Kim Ngan (1137184)  
-**Date:** November 2025  
+**Date:** December 2025  
 **Dataset:** Influencers in Social Networks (Kaggle)  
 **Original Code:** Based on [Social-Media-Analytics-Twitter](https://github.com/shimonyagrawal/Social-Media-Analytics-Twitter) by Shimony Agrawal
 
@@ -329,7 +329,7 @@ If you use this upgraded implementation in your research, please cite:
   title={Predicting Social Media Influence: A Machine Learning Approach with Enhanced Algorithm Suite},
   author={Mai Le Quynh and Duong Kim Ngan},
   year={2025},
-  month={November},
+  month={December},
   school={Yuan Ze University},
   department={Department of Management},
   address={Taoyuan, Taiwan},
