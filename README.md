@@ -376,7 +376,7 @@ Random seeds are fixed (`random_state=42`) across all models. The dataset is inc
 
 ---
 
-**Project Period:** November 2025  
+**Project Period:** November - December 2025  
 **Version:** 1.0.0  
 **Status:** ✅ Research Complete | 🚀 Ready for Deployment  
 **Course:** CM763 - Artificial Intelligence  
